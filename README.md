@@ -1,0 +1,13 @@
+# backend_cv_nodejs
+Servicio restfull en nodejs
+PASOS PARA CREAR UN PROYECTO EN NODEJS
+
+1.- CREAR UNA CARPETA EN CUALQUIER RUTA
+2.- ABRIR UNA TERMINAL
+3.- EJECUTAR EL COMANDO npm init -y PARA QUE GENERE EL ARCHIVO PACKAGE.JSON
+4.- INSTALAR EXPRESS.JS 
+5.- EJECUTAR CON EL COMANDO NODE NAME_FILE.JS
+6.- INSTALAR NODEMON PARA QUE SE REFRESQUE LOS CAMBIOS
+7.- EJECUTAR AHORA EL COMANDO NODEMON NAME_FILE.JS
+8 .- comando para ejecutar  // ejecutar con el comando npm run start:dev
+9.- instalar mongoose para la conexion a la base de datos
